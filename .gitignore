@@ -39,7 +39,7 @@ cache/
 # Editors.
 /jedit
 /atom
-/vscode
+/.vscode
 
 # Created directories.
 saves/
